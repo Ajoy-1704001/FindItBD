@@ -10,4 +10,4 @@ Summary:
     - Product addition, updating info, deleting product etc. are performed.
 4. There are API endpoints for Blog feature including
     - Creating blog post, deleting blog bost, like and comment etc.
-5. It has also search features which is very advanced.
+5. It has also search features where we can search based on product's features.
